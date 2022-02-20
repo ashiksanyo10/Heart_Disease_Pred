@@ -3,7 +3,7 @@
 Simple and very basic ML model which is used to predict the Heart Disease using Logistic Regression (Binary Prediction)
 Tool : Google collab Notebook
 
-code : https://colab.research.google.com/drive/1Aa0TCt1Fge2kcnXnTJD9ENIWR8F9hUNd?usp=sharing
+code : https://colab.research.google.com/drive/1bnuwp8CSfGaF9-1e_mobJmZa3hIvIp-6#scrollTo=i3Ggk01jwxa0
 
 data sets : https://www.kaggle.com/ronitf/heart-disease-uci
 
