@@ -7,7 +7,7 @@ code : https://colab.research.google.com/drive/1bnuwp8CSfGaF9-1e_mobJmZa3hIvIp-6
 
 data sets : https://www.kaggle.com/ronitf/heart-disease-uci
 
-Reference Screenshots
+Reference Screenshots for refernce 
 
 ![image](https://user-images.githubusercontent.com/66254994/153897460-d17ebd28-3510-47b7-bb75-b6b8a58d82b9.png)
 
